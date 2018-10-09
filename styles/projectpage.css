@@ -1,0 +1,31 @@
+body {
+    margin:0;
+    font-family:sans-serif;
+    background-color:rgba(215, 104, 0, 0.726);
+}
+.center {
+    text-align:center;
+}
+a:link, a:visited {
+    position:sticky;
+    background-color:rgb(110,100,255);
+    padding: 16px 25px;
+    color:white;
+    text-decoration:none;
+    text-align:center;
+}
+a:hover, a:active {
+    position:sticky;
+    background-color:rgb(90,80,235);
+}
+h6.backtrack {
+    position:fixed;
+    bottom:0;
+    left:0
+    
+}
+  .header {
+      background-color: rgb(253,56,30);
+      padding: 20px;
+      text-align: center;
+  }
