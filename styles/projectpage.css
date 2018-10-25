@@ -1,7 +1,7 @@
 body {
     margin:0;
     font-family:sans-serif;
-    background-color:rgba(215, 104, 0, 0.726);
+    background-color:rgba(51, 255, 0, 0.5);
 }
 .center {
     text-align:center;
@@ -25,7 +25,6 @@ h6.backtrack {
     
 }
   .header {
-      background-color: rgb(253,56,30);
       padding: 20px;
       text-align: center;
   }
