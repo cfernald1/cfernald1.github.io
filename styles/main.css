@@ -27,6 +27,7 @@ a:hover, a:active {
     position: fixed;
     bottom: 0;
     left: 0;
+    background-color:rgba(255, 0, 0, 0);
 }
 img {
     display: block;
